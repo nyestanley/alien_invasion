@@ -1,7 +1,8 @@
 # alien_invasion
-Alien Invasion game written in Python 3
+Alien Invasion pygame written in Python 3
 
 To Run: python3 alien_invasion.py
+NOTE: You must have Pygame installed on computer for this game to work!
 
 Author:
 Niesha Stanley
@@ -15,3 +16,6 @@ The player shoots and destroys the aliens.
 If the player shoots all the aliens, a new fleet appears that moves faster than the previous fleet.
 If any alien hits the player’s ship or reaches the bottom of the screen, the player loses a ship.
 If the player loses three ships, the game ends.
+
+Resources:
+http://pygame.org/wiki/GettingStarted#Pygame Installation
