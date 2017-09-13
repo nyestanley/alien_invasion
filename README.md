@@ -1,5 +1,5 @@
 # alien_invasion
-Alien Invasion game written in Python
+Alien Invasion game written in Python 3
 
 To Run: python3 alien_invasion.py
 
