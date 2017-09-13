@@ -2,6 +2,7 @@
 Alien Invasion pygame written in Python 3
 
 To Run: python3 alien_invasion.py
+
 NOTE: You must have Pygame installed on computer for this game to work!
 
 Author:
